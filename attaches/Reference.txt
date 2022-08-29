@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3543321.3543364,
+author = {Wang, Xiaowu},
+title = {Italian Research Assessment VQR: Framework, Achievements and Controversies},
+year = {2022},
+isbn = {9781450396417},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3543321.3543364},
+doi = {10.1145/3543321.3543364},
+abstract = {Research assessment is an important basis for university funding and a solid pillar of the national innovation system. The Italian research assessment VQR has been reformed rapidly with outstanding achievements and representative controversies, thus showing its significant research value. In this paper, on the basis of studying the VQR's framework, we summarize its achievements and controversies. VQR has stimulated university competition, assisted higher education accountability, and improved research management mechanisms. However, it has also encountered controversies in methods, indicators, algorithms, and submission procedures, etc. Based on the detailed research and discussion on VQR, this paper can provide experience for the evolution and development trend of world research assessment.},
+booktitle = {Proceedings of the 7th International Conference on Distance Education and Learning},
+pages = {261-267},
+numpages = {7},
+keywords = {Research assessment, Italy, VQR},
+location = {Beijing, China},
+series = {ICDEL '22}
+}
