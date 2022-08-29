@@ -1,2 +1,2 @@
-# XY-boy.github.io
-https://xy-boy.github.io/
+# Xiaowu Wang's homepage
+xiaowuwang.top
